@@ -1,0 +1,15 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "npm demo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandeep bansal",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.2.16",
+    "underscore": "^1.9.1"
+  }
+}
